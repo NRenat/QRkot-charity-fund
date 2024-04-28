@@ -1,0 +1,3 @@
+Создание миграций - alembic revision --autogenerate -m "Your Changes"
+
+Применение миграций - alembic upgrade head

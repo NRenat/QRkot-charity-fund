@@ -35,6 +35,7 @@ uvicorn app.main:app
 ```
 
 ## Технологии
+* Python 3.9
 * FastAPI
 * SQLAlchemy
 * Pydantic
